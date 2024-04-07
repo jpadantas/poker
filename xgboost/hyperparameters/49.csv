@@ -1,0 +1,9 @@
+n_estimators,1000000
+max_depth,12
+learning_rate,0.01
+subsample,0.8999999999999999
+colsample_bytree,0.7
+colsample_bylevel,0.6
+min_child_weight,1
+gamma,0.3
+n_jobs,-1
