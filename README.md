@@ -13,12 +13,12 @@ ASA-WEZ is designed to enhance the assessment of missile launch effectiveness in
 - **Benchmarking Against Traditional Models**: Demonstrated improvements over existing WEZ models in terms of precision and computational efficiency.
 
 ## Repository Structure
-/ann - Artificial Neural Networks used for probability estimation.
-/eda - Exploratory Data Analysis of the dataset and features used in the model.
-/lethality - Modules related to modeling the effects of missile warhead lethality.
-/pr - Polynomial Regression model for probability estimation.
-/target - Code related to target behavior and dynamics modeling.
-/xgboost - Implementation of the XGBoost model for probability predictions.
+- `/ann` - Contains Artificial Neural Networks that estimate kill probabilities.
+- `/eda` - Provides tools for Exploratory Data Analysis of the dataset and features integral to the model.
+- `/lethality` - Includes modules that simulate the impact of missile warhead lethality.
+- `/pr` - Features a Polynomial Regression model for refining probability estimations.
+- `/target` - Hosts scripts for modeling the dynamics of target behavior.
+- `/xgboost` - Implements the XGBoost algorithm for enhanced predictive accuracy.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is distributed under the MIT License. For more details, please refer to the `LICENSE.md` file included in this repository.
