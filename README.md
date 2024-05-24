@@ -1,10 +1,12 @@
-# ASA-WEZ: A Probabilistic Weapon Engagement Zone Model for Beyond Visual Range Air Combat
+# PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning Against Stochastic Targets
 
 ## Overview
-This repository contains the implementation and documentation for "ASA-WEZ", a novel probabilistic Weapon Engagement Zone (WEZ) model described in the paper "ASA-WEZ: A Probabilistic Weapon Engagement Zone Model for Beyond Visual Range Air Combat".
+This repository contains the implementation and documentation for "PoKER", a novel probabilistic Weapon Engagement Zone (WEZ) model described in the paper "PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning Against Stochastic Targets".
+
+## Overview
 
 ## Introduction
-ASA-WEZ is designed to enhance the assessment of missile launch effectiveness in Beyond Visual Range (BVR) air combat scenarios. Unlike traditional models that focus on maximum, minimum, and no-escape zones, ASA-WEZ utilizes advanced machine learning techniques to predict the probability of kill based on the missile's miss distance. This model incorporates aspects of warhead lethality and probabilistic target behavior to provide a more dynamic and precise WEZ calculation.
+PoKER is designed to enhance the assessment of missile launch effectiveness in Beyond Visual Range (BVR) air combat scenarios. Unlike traditional models that focus on maximum, minimum, and no-escape zones,PoKER utilizes advanced machine learning techniques to predict the probability of kill based on the missile's miss distance. This model incorporates aspects of warhead lethality and probabilistic target behavior to provide a more dynamic and precise WEZ calculation.
 
 ## Model Features
 - **Probabilistic Kill Estimation**: Integrates machine learning to calculate the likelihood of a kill based on various engagement parameters.
