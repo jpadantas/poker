@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Code for: PoKER: a probability of kill estimation rate model for air-to-air missiles using machine learning on stochastic targets"
+type: software
+authors:
+  - family-names: "Dantas"
+    given-names: "Joao P. A."
+    orcid: "https://orcid.org/0000-0003-0300-8027"
+  - family-names: "Costa"
+    given-names: "Andre N."
+  - family-names: "Geraldo"
+    given-names: "Diego"
+  - family-names: "Maximo"
+    given-names: "Marcos R. O. A."
+  - family-names: "Yoneyama"
+    given-names: "Takashi"
+repository-code: "https://github.com/jpadantas/poker"
+license: MIT
+preferred-citation:
+  type: article
+  journal: "The Journal of Defense Modeling and Simulation: Applications, Methodology, Technology"
+  title: "PoKER: a probability of kill estimation rate model for air-to-air missiles using machine learning on stochastic targets"
+  authors:
+    - family-names: "Dantas"
+      given-names: "Joao P. A."
+      orcid: "https://orcid.org/0000-0003-0300-8027"
+    - family-names: "Costa"
+      given-names: "Andre N."
+    - family-names: "Geraldo"
+      given-names: "Diego"
+    - family-names: "Maximo"
+      given-names: "Marcos R. O. A."
+    - family-names: "Yoneyama"
+      given-names: "Takashi"
+  volume: "23"
+  issue: "4"
+  start: "579"
+  end: "599"
+  year: 2026
+  publisher:
+    name: "SAGE Publications"
+  doi: "10.1177/15485129241309675"
+  url: "https://www.joaopadantas.com/publications/dantas2026poker/"
