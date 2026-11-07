@@ -1,5 +1,8 @@
 # PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets
 
+> **Paper, PDF and citation:** [joaopadantas.com/publications/dantas2026poker](https://www.joaopadantas.com/publications/dantas2026poker/)
+
+
 ## Overview
 This repository contains the implementation and documentation for "PoKER", a novel probabilistic Weapon Engagement Zone (WEZ) model described in the paper "PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets".
 
